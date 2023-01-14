@@ -16,8 +16,8 @@ Greetings, I am Geru.
 - dirty code
 - php
 
-# 📖 decided to study Computer Science after many years, so this Github will
-# show my journey and all its side quests.
+# 📖 decided to study Computer Science after many years, so this Github
+# shows my journey and all its side quests.
 ```
 
 ---------------
