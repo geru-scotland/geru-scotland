@@ -1,16 +1,37 @@
-### Hi there 👋
+<div><img align="left" height="300" src="https://github.com/geru-scotland/geru-scotland/blob/master/image/playing-video-games.gif"/></div>
 
-<!--
-**geru-scotland/geru-scotland** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+```diff
+Greetings, I am Geru.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+@@ -1,5 +1,8 @@
+@@ a geek programmer, passionated for games @@
+@@ from the Basque Country, with a scottish background @@
++ game development
++ game server development
++ machine learning and AI
++ c++
+- obfuscated code
+- php
+
+# 📖 decided to study Computer Science after many years so this Github will
+# show this journey and all my side quests.
+```
+
+---------------
+---------------
+---------------
+
+---------------
+
+<details open>
+ <summary><b>My Github Stats</b>: </summary>
+
+<br>
+
+<p align = "center">
+  <img src = "https://github-readme-stats-sigma-five.vercel.app/api?username=geru-scotland&show_icons=true&theme=tokyonight&line_height=27">
+  <img src = "https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=geru-scotland&hide=css,html&theme=tokyonight">
+</p>
+
+</details>
