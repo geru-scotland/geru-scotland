@@ -1,4 +1,4 @@
-<div><img align="left" height="300" src="https://github.com/geru-scotland/geru-scotland/blob/master/image/playing-video-games.gif"/></div>
+<div><img align="left" height="330" src="https://github.com/geru-scotland/geru-scotland/blob/master/image/playing-video-games.gif"/></div>
 
 
 ```diff
@@ -7,11 +7,12 @@ Greetings, I am Geru.
 @@ -1,5 +1,8 @@
 @@ a geek programmer, passionated about video games and science @@
 @@ from the Basque Country, with a scottish background @@
-+ game development
-+ game server development
++ game programming with an emphasis on server side development
++ modern web apps
 + machine learning and AI
 + c++
-- obfuscated code
++ cats
+- dirty code
 - php
 
 # 📖 decided to study Computer Science after many years so this Github will
