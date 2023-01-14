@@ -5,7 +5,7 @@
 Greetings, I am Geru.
 
 @@ -1,5 +1,8 @@
-@@ a geek programmer, passionated for games @@
+@@ a geek programmer, passionated about video games and science @@
 @@ from the Basque Country, with a scottish background @@
 + game development
 + game server development
