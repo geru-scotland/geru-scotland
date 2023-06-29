@@ -32,8 +32,8 @@ Greetings, I am Geru.
 <br>
 
 <p align = "center">
-  <img src = "https://github-readme-stats-sigma-five.vercel.app/api?username=geru-scotland&show_icons=true&theme=tokyonight&line_height=27">
-  <img src = "https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=geru-scotland&hide=css,html&theme=tokyonight">
+  <img src = "https://streak-stats.demolab.com/?user=geru-scotland&theme=one-dark-pro">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=geru-scotland&hide=css,html&theme=tokyonight">
 </p>
 
 </details>
