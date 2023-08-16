@@ -1,4 +1,4 @@
-<div><img align="left" height="330" src="https://github.com/geru-scotland/geru-scotland/blob/master/image/playing-video-games.gif"/></div>
+<div><img align="left" height="330" src="image/playing-video-games.gif"/></div>
 
 
 ```diff
@@ -37,3 +37,14 @@ Greetings, I am Geru.
 </p>
 
 </details>
+
+## My latest certifications:
+
+## IBM 
+### Professional certification of Full Stack and Cloud Software developer
+<br>
+
+<p align="center">
+  <img src="image/full-stack-software-developer-professional-certificate.png" alt="IBM Certificate Badge">
+</p>
+
