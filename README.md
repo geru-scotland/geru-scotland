@@ -41,7 +41,8 @@ Greetings, I am Geru.
 <details open>
 <summary><b>Latest official certifications:</b></summary>
 <p align="center">
-  <img src="image/ibm-logo.jpeg" alt="IBM Certificate Badge">
+  <img src="image/ibm-logo.jpeg" alt="IBM Certificate Badge" width="125">
+
 </p>
 <ul>
     <li>IBM Full Stack and Cloud Software Developer Professional Certification (cert id: TJCAX27APBYM)</li>
