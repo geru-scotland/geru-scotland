@@ -1,4 +1,4 @@
-<div><img align="left" height="330" src="https://github.com/geru-scotland/geru-scotland/blob/master/image/playing-video-games.gif"/></div>
+<div><img align="left" height="330" src="image/playing-video-games.gif"/></div>
 
 
 ```diff
@@ -36,4 +36,17 @@ Greetings, I am Geru.
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=geru-scotland&hide=css,html&theme=tokyonight">
 </p>
 
+</details>
+
+<details>
+<summary><b>Latest official certifications:</b></summary>
+<p align="center">
+  <img src="image/ibm-logo.jpeg" alt="IBM Certificate Badge">
+</p>
+<ul>
+    <li>IBM Full Stack and Cloud Software Developer Professional Certification (cert id: TJCAX27APBYM)</li>
+    <li>IBM Applied DevOps Engineering Professional Certification (cert id: B6YPSF7GQQVQ)</li>
+    <li>IBM DevOps and Software Engineering Professional Certification (cert id FYSXCLPDE57P)</li>
+    <li>IBM DevOps, Cloud, and Agile Foundations Specialization (cert id: HMNY6WQTG8YB)</li>
+</ul>
 </details>
