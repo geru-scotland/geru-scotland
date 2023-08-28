@@ -46,7 +46,7 @@ Greetings, I am Geru.
 <ul>
     <li>IBM Full Stack and Cloud Software Developer Professional Certification (cert id: TJCAX27APBYM)</li>
     <li>IBM Applied DevOps Engineering Professional Certification (cert id: B6YPSF7GQQVQ)</li>
-    <li>IBM DevOps and Software Engineering Professional Certification (cert id FYSXCLPDE57P)</li>
+    <li>IBM DevOps and Software Engineering Professional Certification (cert id: FYSXCLPDE57P)</li>
     <li>IBM DevOps, Cloud, and Agile Foundations Specialization (cert id: HMNY6WQTG8YB)</li>
 </ul>
 </details>
