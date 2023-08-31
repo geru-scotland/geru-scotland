@@ -39,7 +39,7 @@ Greetings, I am Geru.
 </details>
 <br>
 <details open>
-<summary><b>My latest official certifications:</b></summary>
+<summary><b>My latest licenses and certifications:</b></summary>
 <p align="center">
   <img src="image/ibm-logo.jpeg" alt="IBM Certificate Badge" width="125">
 </p>
