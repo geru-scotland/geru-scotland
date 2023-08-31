@@ -37,17 +37,23 @@ Greetings, I am Geru.
 </p>
 
 </details>
-
+<br>
 <details open>
-<summary><b>Latest official certifications:</b></summary>
+<summary><b>My latest official certifications:</b></summary>
 <p align="center">
   <img src="image/ibm-logo.jpeg" alt="IBM Certificate Badge" width="125">
-
 </p>
 <ul>
     <li>IBM Full Stack and Cloud Software Developer Professional Certification (cert id: TJCAX27APBYM)</li>
     <li>IBM Applied DevOps Engineering Professional Certification (cert id: B6YPSF7GQQVQ)</li>
     <li>IBM DevOps and Software Engineering Professional Certification (cert id: FYSXCLPDE57P)</li>
     <li>IBM DevOps, Cloud, and Agile Foundations Specialization (cert id: HMNY6WQTG8YB)</li>
+</ul>
+<br>
+<p align="center">
+  <img src="image/edinburgh-uni-logo.jpg" alt="Edinburgh University" width="125">
+</p>
+<ul>
+    <li>Data Science in Stratified Healthcare and Precision Medicine (cert id: 8TCWF5TL2QZH)</li>
 </ul>
 </details>
