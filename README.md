@@ -47,6 +47,7 @@ Greetings, I am Geru.
 </p>
 <ul>
     <li>Machine Learning Specialization</li>
+    <br>
     <ul>
         <li>Supervised Machine Learning: Regression and Classification (cert id: BAZK828YX86Q)</li>
         <li>Advanced Learning Algorithms (cert id: CTDBWL947XN3)</li>
