@@ -40,6 +40,21 @@ Greetings, I am Geru.
 <br>
 <details open>
 <summary><b>My latest licenses and certifications:</b></summary>
+
+<p align="center">
+  <img src="image/stanford.png" alt="Stanford University" width="125">
+<img src="image/deepl.png" alt="Stanford University" width="200">
+</p>
+<ul>
+    <li>Machine Learning Specialization</li>
+    <ul>
+        <li>Supervised Machine Learning: Regression and Classification (cert id: BAZK828YX86Q)</li>
+        <li>Advanced Learning Algorithms (cert id: CTDBWL947XN3)</li>
+        <li>Unsupervised Learning, Recommenders, Reinforcement Learning (cert id: 9XSYLFWVQWU9)</li>
+    </ul>
+</ul>
+<br>
+
 <p align="center">
   <img src="image/ibm-logo.jpeg" alt="IBM Certificate Badge" width="125">
 </p>
