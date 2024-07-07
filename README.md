@@ -40,7 +40,7 @@ Greetings, I am Geru.
 <br>
 <details open>
 <summary><b>My latest licenses and certifications:</b></summary>
-
+<br>
 <p align="center">
   <img src="image/stanford.png" alt="Stanford University" width="125">
 <img src="image/deepl.png" alt="Stanford University" width="200">
